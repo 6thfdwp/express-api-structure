@@ -22,6 +22,7 @@ Install yarn for package managment (install / upgrade dependencies)
 Clone the source repo / pull latest changes
 
 ```sh
+$ cd YOU_PROJECT
 $ yarn install
 $ yarn start
 ```
