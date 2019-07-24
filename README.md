@@ -1,6 +1,3 @@
-This is initial struture for Frugl api server. There is diagram to illustrate the different layers of structure that can be found here:
-
-https://ngndev.atlassian.net/wiki/spaces/FRUG/pages/727646212/Client+Front+End+High+Level+Design
 
 ### Dependencies
 
@@ -21,7 +18,7 @@ Install yarn for package managment (install / upgrade NodeJS dependencies)
 
 Clone the source repo / pull latest changes
 
-Put the proper .env file in the root of the project. All DB connection and other credentials (e.g, RabbitQ, Redis cache) will be configured here
+When deploying, need the proper .env file in the root of the project. All DB connection and other credentials (e.g, RabbitQ, Redis cache) will be configured here
 
 ```sh
 $ cd YOU_PROJECT
